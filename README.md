@@ -1,0 +1,2 @@
+# rooses
+RSS chrome extension
